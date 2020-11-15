@@ -1,0 +1,1 @@
+alert("Welcome to my CV, hope you get inspired;)");
