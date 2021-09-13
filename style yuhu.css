@@ -18,7 +18,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     p {
         font-size: 1em;
         line-height: 1.4em;
-        margin-bottom: 2px;
+        margin-bottom: 10px;
         color: rgb(202, 91, 91);
     }
     #cv {
@@ -54,6 +54,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     #headshot img {
         width: 100%;
         height: auto;
+        margin-left: 10px;
         -webkit-border-radius: 50px;
         border-radius: 50px;
     }
@@ -66,7 +67,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     #contactDetails ul {
         list-style-type: none;
         font-size: 0.9em;
-        margin-top: 2px;
+        margin-top: 1px;
     }
     #contactDetails ul li {
         margin-bottom: 3px;
@@ -102,6 +103,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     .sectionContent {
         float: right;
         width: 72.5%;
+        margin-bottom: 15px;
     }
     .sectionTitle h1 {
         font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
@@ -112,19 +114,18 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     .sectionContent h2 {
         font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
         font-size: 1.5em;
-        margin-bottom: -2px;
+        margin-bottom: 30px;
     }
     .subDetails {
         font-size: 0.8em;
         font-style: italic;
-        margin-bottom: 3px;
+        margin-bottom: 15px;
     }
     .keySkills {
         list-style-type: none;
         -moz-column-count:3;
         -webkit-column-count:3;
         column-count:3;
-        margin-bottom: 20px;
         font-size: 1em;
         color: #444;
     }
